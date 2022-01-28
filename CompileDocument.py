@@ -15,7 +15,7 @@ use_BibEngine = 2 # No Bibliography = 0 | BibTeX = 1 | Biber = 2
 #--------------------------------------------------------------
 
 clean_Before = True # Clear auxillary files + specified files before compilling
-clean_After = True # Clearauxillary files + specified files after compilling
+clean_After = True # Clear auxillary files + specified files after compilling
 
 protectedExtensions = ['.py', '.bib', '.tex'] # Protect file extensions
 protectedFiles = [] # Protect certain files from being cleaned | Must contain extension
@@ -26,7 +26,7 @@ clearFiles = [] # Files to remove w/ extensions | Overrides protected extensions
 #--------------------------------------------------------------
 
 useAuxDirectory = True	# Whether to use an auxillary directory
-auxDirectoryName = 'auxillary' #Name of auxillary folder to be created in current working directory
+auxDirectoryName = 'auxillary' # Name of auxillary folder to be created in current working directory
 
 pdfInteraction = True # Close/Open PDF file
 

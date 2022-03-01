@@ -49,7 +49,8 @@ auxFileExtensions = [
 						'.run.xml',
 						'.bcf',
 						'.blg',
-						'.log'
+						'.log',
+						'.xmpi'
 					]
 
 tex_ReRun_Messages = [

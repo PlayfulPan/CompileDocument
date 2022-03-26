@@ -1,2 +1,2 @@
 # CompileDocument
-Python script for managing latex compilation (Test Change!)
+Python script for managing latex compilation
